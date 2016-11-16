@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * Created by Vlad on 11/16/2016.
  */
-public class BlockPost {
+public class BlogPost {
     private long id;
     private String title;
     private String content;
